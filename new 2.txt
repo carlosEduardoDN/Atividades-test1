@@ -1,0 +1,121 @@
+<!DOCTYPE>
+<html>
+  <head>
+    <title> Dias de Aula </title>
+   <meta charset = "UTF-8">
+  </head>
+ <body>
+   <table border = 2 >
+	 <tr>
+	  <th colspan = "5" > Aulas </th>
+	 </tr>
+    <tr>
+	  <th> SEGUNDA </th>
+	  <th> TERÇA </th>
+	  <th> QUARTA </th>
+	  <th> QUINTA </th>
+	  <th> SEXTA </th>
+    </tr>
+   
+    <tr>
+      <td> MAT </td>
+	  <td> ARM </td>
+	  <td> TRANS. D. </td>	
+	  <td> LOG </td>
+	  <td> FIS </td>	
+    </tr>
+	
+	<tr>
+      <td> MAT </td>
+	  <td> ARM </td>
+	  <td> HIS </td>
+	  <td> LOG </td>
+	  <td> GEO </td>	
+    </tr>
+	
+	<tr>
+      <td> ART </td>
+	  <td> ARM </td>
+	  <td> TRANS. D. </td>
+	  <td> LOG </td>
+	  <td> ED. F. </td>	
+    </tr>
+	
+	<tr>
+      <td> FIL </td>
+	  <td> LOG </td>
+	  <td> ING </td>
+	  <td> PROJ. </td>
+	  <td> PORT </td>	
+    </tr>
+	
+	<tr>
+      <td> BIO </td>
+	  <td> LOG </td>
+	  <td> SOC </td>
+	  <td> PROJ. </td>
+	  <td> PORT </td>	
+    </tr>
+   </table>	
+ </body>
+</html><!DOCTYPE>
+<html>
+  <head>
+    <title> Dias de Aula </title>
+   <meta charset = "UTF-8">
+  </head>
+ <body>
+   <table border = 2 >
+	 <tr>
+	  <th colspan = "5" > Aulas </th>
+	 </tr>
+    <tr>
+	  <th> SEGUNDA </th>
+	  <th> TERÇA </th>
+	  <th> QUARTA </th>
+	  <th> QUINTA </th>
+	  <th> SEXTA </th>
+    </tr>
+   
+    <tr>
+      <td> MAT </td>
+	  <td> ARM </td>
+	  <td> TRANS. D. </td>	
+	  <td> LOG </td>
+	  <td> FIS </td>	
+    </tr>
+	
+	<tr>
+      <td> MAT </td>
+	  <td> ARM </td>
+	  <td> HIS </td>
+	  <td> LOG </td>
+	  <td> GEO </td>	
+    </tr>
+	
+	<tr>
+      <td> ART </td>
+	  <td> ARM </td>
+	  <td> TRANS. D. </td>
+	  <td> LOG </td>
+	  <td> ED. F. </td>	
+    </tr>
+	
+	<tr>
+      <td> FIL </td>
+	  <td> LOG </td>
+	  <td> ING </td>
+	  <td> PROJ. </td>
+	  <td> PORT </td>	
+    </tr>
+	
+	<tr>
+      <td> BIO </td>
+	  <td> LOG </td>
+	  <td> SOC </td>
+	  <td> PROJ. </td>
+	  <td> PORT </td>	
+    </tr>
+   </table>	
+ </body>
+</html>
